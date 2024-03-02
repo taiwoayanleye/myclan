@@ -1,6 +1,6 @@
 # MYCLAN
 
-[myclan.com](https://github.com/) lets you host intimate events with your loved ones. You can host events such as babyshowers, bridal showeers and others.
+[myclan.com](https://github.com/) lets you host intimate events with your loved ones. You can host events such as babyshowers, bridal showers and others.
 
 ## Requirements
 

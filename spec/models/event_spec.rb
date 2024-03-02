@@ -13,12 +13,12 @@ RSpec.describe Event, type: :model do
   end
 
   it 'should not be valid without a title' do
-    @event.title  = nil
+    @event.title = nil
     expect(@event).to_not be_valid
   end
 
   it 'should not be valid without a location' do
-    @event.location  = nil
+    @event.location = nil
     expect(@event).to_not be_valid
   end
 
