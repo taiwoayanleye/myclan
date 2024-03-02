@@ -79,6 +79,4 @@ test:
 #
 production:
   <<: *default
-  database: myclan_production
-  username: myclan
-  password: <%= ENV["MYCLAN_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
